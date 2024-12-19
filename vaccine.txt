@@ -1,0 +1,7 @@
+AF,2 dose required,2 week interval,18,above
+BV,2 dose required,3 week interval,18,above
+CZ,2 dose required,3 week interval,12,45
+DM,2 dose required,4 week interval,12,above
+EC,1 dose required,none week interval,18,above
+MI,2 dose required,2 week interval,18,50
+AD,2 dose required,2 week interval,18,25

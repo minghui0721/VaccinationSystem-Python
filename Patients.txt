@@ -1,0 +1,19 @@
+VC2-101,960324-01-1566,Tan Mei Yan,888888,m,vc2,Blok B Pasar Awam Taman Dahlia,81200,26,minghui24@gmail.com,010-107-6565,no,no,CZ
+VC1-101,030111-01-6548,Boo Yi Xuan,111111,m,vc1,14 Jalan Ratan Rahman Taman Baru Jaya,83000,19,boo0111@gmail.com,011-1077-8989,asthma,yes,DM
+VC1-102,981211-10-5648,Bryan Ng,222222,m,vc1,22 Jalan Bentara 16 Perumahan Pengawai Kanan Kastam Kampung Jawa,41200,24,bryan123@gmail.com,010-5055-1212,no,no,EC
+VC2-102,030615-01-1465,Ong Xin Li,999999,f,vc2,Jalan Harmonium 21/10 Taman Desa Tebrau,81100,19,xinli15@gmail.com,011-7449-6478,no,no,AF
+VC2-103,991212-10-9911,Jasmine Binti Elish,000000,f,vc2,Lot Persiaran Hamzah Alang Meru,13259,23,jasmine12@gmail.com,011-1065-3069,no,no,AF
+VC1-103,0123-4567-8910,MINGHUI,123456,m,vc1,PARKHILL,83000,19,minghui123@gmail.com,011-1234-9999,no,no,EC
+VC1-104,1234-5678-999,mh,030721,m,vc1,apu,83000,19,yahoo.com,999,no,no,AF
+VC1-105,860808-01-7786,Kean Hee,005abc,m,vc1,No.81 Jalan Mutiara Emas 7/7 Taman Mount Austin,81100,36,kh635@gmail.com,019-8556-3566,no,yes,DM
+VC1-106,851106-10-1676,Muhammad Ali,006abc,m,vc1,No.6 Jalan 14/22,46100,37,ali123@gmail.com,017-6898-1122,appendicitis,no,EC
+VC2-104,781005-01-3511,Nur Hazilah Binti Ibrahim,011abc,f,vc2,29 Jalan Persiaran Tanjung Susur 1,81200,44,Hazilah1005@gmail.com,011-5562-6868,diabetes,no,BV
+VC2-105,650819-01-1221,Vincent Chia Yu Yan,012abc,m,vc2,55 Jalan Perdana Taman Abu Bakar,83000,57,vincentc0819@gmail.com,014-4654-5798,no,no,BV
+VC1-107,800715-10-6689,Navin Khor Wei Min,007abc,m,vc1,Phileo Damansara 1 Off Jalan Damansara,46350,42,navin66@gmail.com,017-725-4567,anemia,no,DM
+VC1-108,900622-01-3269,Jordan Ho,004abc,m,vc1,16 Jalan Mewah Ria Satu/4 Taman Bukit Mewah,81200,32,jordan0000@gmail.com,011-3659-7654,no,no,AF
+VC2-106,820303-10-7835,Louis Ong,013abc,m,vc2,12 Jalan Pendamaran Jaya 99 Pendamaran Jaya Pelabuhan,42000,40,louis03@gmail.com,018-1044-5689,no,no,CZ
+VC2-107,950523-10-0117,Joanne Tan Jie En,014abc,f,vc2,172 Jalan Batu Unjur 1 Taman Bayu Perdana,41200,27,joanne23@gmail.com,011-8576-1987,no,yes,CZ
+VC2-108,611105-10-6781,Zheng Ji Poh,015abc,m,vc2,21 Jalan Tapah Kaw 18,41400,61,zhpoh11@gmail.com,011-3601-1020,no,no,BV
+VC2-109,030721-11-1232,GAN MING HUI,123abc,m,VC2,APU,83000,20,ganminghui@gmail.com,012-7535458,no,no,BV
+VC1-109,030721-10-1202,Dr Masrina,abc123,f,VC1,APU,57000,21,apu@gmail.com,012-7535458,no,no,AF
+VC1-110,030721-01-1787,minghui,123abc,m,VC1,batu pahat,83000,20,ganminghui0000@gmail.com,011-64163673,no,no,AF
